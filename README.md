@@ -38,8 +38,6 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - Visitor
 - Interpreter
 
-### Recompensas
-<img width="2065" height="3072" alt="recompensas" src="https://github.com/user-attachments/assets/9f65428f-cfbd-4c40-b94a-47a1b670415a" />
 
 ### Minhas Recompensas
 
@@ -52,9 +50,9 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 
 ### Meus Projetos
 
-![Abstract Factory](https://github.com/monica88lima/balta-desafio-carnacode-2026_1-abstract-factory)
-![Factory Method](https://github.com/monica88lima/balta-desafio-carnacode-2026_3-factory-method)
-![Builder](https://github.com/monica88lima/balta-desafio-carnacode-2026_2-builder)
-![Adapter](https://github.com/monica88lima/balta-desafio-carnacode-2026_6-adapter)
-![Decorator](https://github.com/monica88lima/balta-desafio-carnacode-2026_9-decorator)
-![Facade](https://github.com/monica88lima/balta-desafio-carnacode-2026_10-facade)
+[Abstract Factory](https://github.com/monica88lima/balta-desafio-carnacode-2026_1-abstract-factory)
+[Factory Method](https://github.com/monica88lima/balta-desafio-carnacode-2026_3-factory-method)
+[Builder](https://github.com/monica88lima/balta-desafio-carnacode-2026_2-builder)
+[Adapter](https://github.com/monica88lima/balta-desafio-carnacode-2026_6-adapter)
+[Decorator](https://github.com/monica88lima/balta-desafio-carnacode-2026_9-decorator)
+[Facade](https://github.com/monica88lima/balta-desafio-carnacode-2026_10-facade)
