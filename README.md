@@ -2,7 +2,7 @@
 
 ## 👋 Bem-vindo(a) ao meu repositório do desafio CarnaCode 2026!
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CanraCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
+Oi, eu sou a Mônica e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CanraCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
@@ -42,7 +42,19 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 <img width="2065" height="3072" alt="recompensas" src="https://github.com/user-attachments/assets/9f65428f-cfbd-4c40-b94a-47a1b670415a" />
 
 ### Minhas Recompensas
-[Incluir recompensas que você recebeu]
+
+![Abstract Factory](./badge/abstract-factory.png)
+![Factory Method](./badge/factory-method.png)
+![Builder](./badge/builder.png)
+![Adapter](./badge/adapter.png)
+![Decorator](./badge/decorator.png)
+![Facade](./badge/facade.png)
 
 ### Meus Projetos
-[Incluir lista de projetos do desafio]
+
+![Abstract Factory](https://github.com/monica88lima/balta-desafio-carnacode-2026_1-abstract-factory)
+![Factory Method](https://github.com/monica88lima/balta-desafio-carnacode-2026_3-factory-method)
+![Builder](https://github.com/monica88lima/balta-desafio-carnacode-2026_2-builder)
+![Adapter](https://github.com/monica88lima/balta-desafio-carnacode-2026_6-adapter)
+![Decorator](https://github.com/monica88lima/balta-desafio-carnacode-2026_9-decorator)
+![Facade](https://github.com/monica88lima/balta-desafio-carnacode-2026_10-facade)
